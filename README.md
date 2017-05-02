@@ -7,3 +7,7 @@
 * [**40 questions test data scientist deep learning**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
 * [**40 questions on probability for all aspiring data scientists**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 * [**45 Questions to test a data scientist on basics of Deep Learning**](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
+
+## CheatSheet
+
+* [**Keras_Cheat_Sheet_Python**](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
