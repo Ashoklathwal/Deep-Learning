@@ -20,28 +20,62 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
-  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
+  - Week 3 - PA 2 - Planar data classification with one hidden layer
+  - Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶
+  - Week 4 - PA 4 - Deep Neural Network for Image Classification: Applicatio
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - [Week 1 - PA 1 - Initialization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
+  - Week 1 - PA 1 - Initialization
+  - Week 1 - PA 2 - Regularization
+  - Week 1 - PA 3 - Gradient Checking
+  - Week 2 - PA 4 - Optimization Methods
+  - Week 3 - PA 5 - TensorFlow Tutorial
 
 - Course 3: Structuring Machine Learning Projects
 
-  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  - Week 1 - PA 1 - ML Strategy(1)
+        - Introduction to ML strategy
+          - Why ML strategy ?
+          - Orthogonalization
+        - Setting up your goal
+          - Single number evaluation metric
+          - Satisficing and Optimizing metric
+          - Train/Dev/Test Distributions
+          - Size of Dev/Test sets
+          - When to change Dev/Test sets and metrics 
+        - Comparing to human level performance
+          - Why human level performance ?
+          - Avoidable bias
+          - Understanding human level performance
+          - Surpassing human level performance
+          - Improving your model performance
+        - Machine Learning flight Simulator
+          - Quiz Solution(Bird recognition in the city of Peacetopia(Case study))
+  - Week 2 - PA 2 - ML Strategy(2)
+        - Error Analysis
+          - Carrying out error analysis
+          - Cleaning up incorrectly labeled data
+          - Build your first system quicky then iterate
+        - Mismatched Training and Dev/Test set
+          - Training and Testing different distribution
+          - Bias and variance with mismateched data distribution
+          - Addressing data mismatch 
+        - Learning from multiple tasks
+          - Transfer learning
+          - Multi-task learning
+        - End-to-end deep learning
+          - What is end-to-end deep learning ?
+          - Whether to use ene-to-end deep learning 
+        - Machine Learning flight Simulator
+          - Quiz solution(Autonomous driving(Case study))
   
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
-  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
+  - Week 1 - PA 1 - Convolutional Model: step by step
+  - Week 1 - PA 2 - Convolutional Model: application
+  - Week 2 - PA 1 - Keras - Tutorial - Happy House
   - Week 2 - PA 2 - Residual Networks
   
 - Course 5: Sequence Models
