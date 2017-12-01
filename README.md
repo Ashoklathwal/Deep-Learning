@@ -36,9 +36,9 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
 - Course 3: Structuring Machine Learning Projects
 
   - Week 1 - PA 1 - ML Strategy(1)
-        * Introduction to ML strategy
-          * Why ML strategy ?
-          * Orthogonalization
+             - Introduction to ML strategy
+               - Why ML strategy ?
+               - Orthogonalization
         - Setting up your goal
           - Single number evaluation metric
           - Satisficing and Optimizing metric
