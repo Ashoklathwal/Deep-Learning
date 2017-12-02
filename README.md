@@ -34,11 +34,11 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
   - Week 3 - PA 5 - TensorFlow Tutorial
 
 - Course 3: Structuring Machine Learning Projects
-```
+
   - Week 1 - PA 1 - ML Strategy(1)
-             - Introduction to ML strategy
-               - Why ML strategy ?
-               - Orthogonalization
+```     - Introduction to ML strategy
+          - Why ML strategy ?
+          - Orthogonalization
         - Setting up your goal
           - Single number evaluation metric
           - Satisficing and Optimizing metric
@@ -52,9 +52,9 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
           - Surpassing human level performance
           - Improving your model performance
         - Machine Learning flight Simulator
-          - Quiz Solution(Bird recognition in the city of Peacetopia(Case study))
+          - Quiz Solution(Bird recognition in the city of Peacetopia(Case study))```
   - Week 2 - PA 2 - ML Strategy(2)
-        - Error Analysis
+  ```   - Error Analysis
           - Carrying out error analysis
           - Cleaning up incorrectly labeled data
           - Build your first system quicky then iterate
