@@ -34,7 +34,7 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
   - Week 3 - PA 5 - TensorFlow Tutorial
 
 - Course 3: Structuring Machine Learning Projects
-
+```
   - Week 1 - PA 1 - ML Strategy(1)
              - Introduction to ML strategy
                - Why ML strategy ?
@@ -70,7 +70,7 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
           - Whether to use ene-to-end deep learning 
         - Machine Learning flight Simulator
           - Quiz solution(Autonomous driving(Case study))
-  
+  ```
 - Course 4: Convolutional Neural Networks
 
   - Week 1 - PA 1 - Convolutional Model: step by step
