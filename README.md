@@ -37,8 +37,8 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
 ```
   - Week 1 - PA 1 - ML Strategy(1)
         - Introduction to ML strategy
-          - Why ML strategy ?
-          - Orthogonalization
+          - [Why ML strategy ?]() 
+          - [Orthogonalization](https://github.com/ashoklathwal/Deep-Learning/blob/master/Structuring%20Machine%20Learning%20Projects/WEEK%201/Orthogonaization(2).pdf)
         - Setting up your goal
           - Single number evaluation metric
           - Satisficing and Optimizing metric
