@@ -2,14 +2,15 @@
 
 This Deep-learning Repository contains following contents :-
 * Deep Learning Specialization on Coursera
-  * Course 1: Neural Networks and Deep Learning
-  * Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  * Course 3: Structuring Machine Learning Projects
-  * Course 4: Convolutional Neural Networks
-  * Course 5: Sequence Models
-* ML To DL
-* Interview Questions
-* CheatSheet
+  * [Course 1: Neural Networks and Deep Learning](https://github.com/ashoklathwal/Deep-Learning#course-1-neural-networks-and-deep-learning)
+  * [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/ashoklathwal/Deep-Learning#course-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
+  * [Course 3: Structuring Machine Learning Projects](https://github.com/ashoklathwal/Deep-Learning#course-3-structuring-machine-learning-projects)
+  * [Course 4: Convolutional Neural Networks](https://github.com/ashoklathwal/Deep-Learning#course-4-convolutional-neural-networks)
+  * [Course 5: Sequence Models](https://github.com/ashoklathwal/Deep-Learning#course-5-sequence-models)
+* [ML To DL](https://github.com/ashoklathwal/Deep-Learning#ml-to-dl)
+* [Reading Materials](https://github.com/ashoklathwal/Deep-Learning#reading-materials)
+* [Interview Questions](https://github.com/ashoklathwal/Deep-Learning#interview-questions)
+* [CheatSheet](https://github.com/ashoklathwal/Deep-Learning#cheatsheet)
 
 # Deep Learning Specialization on Coursera
 
@@ -27,16 +28,16 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 As a CS/DS major student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
 
-## Programming Assignments
+## Programming Assignments Solutins and Notes
 
-### Course 1: Neural Networks and Deep Learning
+### Course 1: Neural Networks and Deep Learning [Click here for Notes and Assignment Solutions](https://github.com/ashoklathwal/Deep-Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning%20coursera)
 
   - Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
   - Week 3 - PA 2 - Planar data classification with one hidden layer
   - Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶
   - Week 4 - PA 4 - Deep Neural Network for Image Classification: Applicatio
 
-### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [Click here for Notes and Assignment Solutions](https://github.com/ashoklathwal/Deep-Learning/tree/master/Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization%20coursera)
 
   - Week 1 - PA 1 - Initialization
   - Week 1 - PA 2 - Regularization
@@ -44,7 +45,7 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
   - Week 2 - PA 4 - Optimization Methods
   - Week 3 - PA 5 - TensorFlow Tutorial
 
-### Course 3: Structuring Machine Learning Projects
+### Course 3: Structuring Machine Learning Projects [Click here for Notes and Assignment Solutions](https://github.com/ashoklathwal/Deep-Learning/tree/master/Structuring%20Machine%20Learning%20Projects)
 ```
   - Week 1 - PA 1 - ML Strategy(1)
         - Introduction to ML strategy
@@ -82,14 +83,14 @@ As a CS/DS major student and a long-time self-taught learner, I have completed m
         - Machine Learning flight Simulator
           - Quiz solution(Autonomous driving(Case study))
   ```
-### Course 4: Convolutional Neural Networks
+### Course 4: Convolutional Neural Networks [Click here for Notes and Assignment Solutions]()
 ```
   - Week 1 - PA 1 - Convolutional Model: step by step
   - Week 1 - PA 2 - Convolutional Model: application
   - Week 2 - PA 1 - Keras - Tutorial - Happy House
   - Week 2 - PA 2 - Residual Networks
 ```  
-### Course 5: Sequence Models
+### Course 5: Sequence Models [Click here for Notes and Assignment Solutions]()
 
 # ML To DL
 
