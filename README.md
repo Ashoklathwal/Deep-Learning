@@ -2,7 +2,7 @@
 
 This Deep-learning Repository contains following contents :-
 * Deep Learning Specialization on Coursera
-* [Course 1: Neural Networks and Deep Learning](https://github.com/ashoklathwal/Deep-Learning#course-1-neural-networks-and-deep-learning)
+  * [Course 1: Neural Networks and Deep Learning](https://github.com/ashoklathwal/Deep-Learning#course-1-neural-networks-and-deep-learning)
   * [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/ashoklathwal/Deep-Learning#course-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
   * [Course 3: Structuring Machine Learning Projects](https://github.com/ashoklathwal/Deep-Learning#course-3-structuring-machine-learning-projects)
   * [Course 4: Convolutional Neural Networks](https://github.com/ashoklathwal/Deep-Learning#course-4-convolutional-neural-networks)
